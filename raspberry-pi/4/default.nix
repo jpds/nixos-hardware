@@ -7,6 +7,7 @@
     ./cpu-revision.nix
     ./dwc2.nix
     ./i2c.nix
+    ./imx477.nix
     ./modesetting.nix
     ./poe-hat.nix
     ./poe-plus-hat.nix
